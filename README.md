@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I’m Anousha 👋  
+I’m a **Strategy Software Engineer** with expertise in **motorsport and vehicle performance**. I combine engineering principles with advanced software tools to optimise race strategies, enhance car performance, and tackle the challenges of data-driven motorsport.
 
-<!--
-**RacingFormula/racingformula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **What I Do**:
+- Develop simulations and models for vehicle dynamics and race performance.
+- Build tools to optimise energy deployment, tyre management, and race strategies.
 
-Here are some ideas to get you started:
+🚀 **Current Projects**:
+- Modelling tyre degradation and its impact on lap times.
+- Developing vehicle dynamics simulations for performance analysis.
+- Creating visual tools for analysing telemetry and track-specific performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **Let’s Connect**:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anousha-tarabad-388421174/)
