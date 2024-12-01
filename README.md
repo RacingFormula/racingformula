@@ -1,5 +1,5 @@
 # Hi, I’m Anousha 👋  
-I’m a **Strategy Software Engineer** with expertise in **motorsport and vehicle performance**. I combine engineering principles with advanced software tools to optimise race strategies, enhance car performance, and tackle the challenges of data-driven motorsport.
+I’m a **Strategy & Software Engineer** with expertise in **motorsport and vehicle performance**. I combine engineering principles with advanced software tools to optimise race strategies, enhance car performance, and tackle the challenges of data-driven motorsport.
 
 🌟 **What I Do**:
 - Develop simulations and models for vehicle dynamics and race performance.
