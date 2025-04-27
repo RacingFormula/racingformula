@@ -1,9 +1,9 @@
 **Anousha**
 <br>
-**Strategy Engineer | Software Engineer**
+**Strategy Engineer**
 <br>
 <br>
-I specialise in developing software tools and simulations that optimise race strategies and enhance vehicle performance in the high-stakes world of motorsport. My work combines engineering principles with data-driven insights to push the boundaries of performance and efficiency.
+I focus on optimising race strategies and vehicle performance through data-driven analysis, predictive modelling, and engineering expertise. My work supports critical race decisions, helping to maximise performance, efficiency, and results in the highly competitive world of motorsport.
 <br>
 
 🌟 **What I Do**:
